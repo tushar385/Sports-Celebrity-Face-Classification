@@ -24,6 +24,6 @@ Technologies used in this project,
 7. HTML/CSS/Javascript for UI
 
 Algorithm Used  
-1. SVM  
+1. SVM.
 2.Random Forest  
 3.Logistic Regression  
