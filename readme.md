@@ -26,4 +26,4 @@
 ## Algorithm Used  
 1. SVM  
 2. Randoom Forest Classifier  
-3. Logistic Regression
+3. Logistic Regression 
